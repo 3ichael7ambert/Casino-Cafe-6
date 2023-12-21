@@ -1,0 +1,434 @@
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/scripts/checklines/checklines.gml
+Converted description /// @description //////////// line w1
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/scripts/card_actions/card_actions.gml
+Converted description /// @description card actions executed in step in card object's step event
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/scripts/control_actions/control_actions.gml
+Converted description /// @description  actions executed by control_actions script
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/scripts/stack_actions/stack_actions.gml
+Converted description /// @description  stack actions -executed by stack instance in step 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/scripts/card_actions_new/card_actions_new.gml
+Converted description /// @description card actions executed in step in card object's step event
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/scripts/control_actions_new/control_actions_new.gml
+Converted description /// @description  actions executed by control_actions script
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/scripts/stack_actions_new/stack_actions_new.gml
+Converted description /// @description  stack actions -executed by stack instance in step 
+
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/ft_g1/ft_g1.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/ft_showcash/ft_showcash.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font_slots/font_slots.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font_slots_won/font_slots_won.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font_slots_small/font_slots_small.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font0/font0.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font1/font1.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font2/font2.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font3/font3.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/text_font/text_font.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/numbers_font/numbers_font.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font0_new/font0_new.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font1_new/font1_new.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font2_new/font2_new.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/font3_new/font3_new.gms1.png
+GameMaker Studio 1 font texture has been backed up at /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/fonts/fnt_lucida/fnt_lucida.gms1.png
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_g_betwindow/Draw_0.gml
+String not found: ConversionLog_ConvertedString 7 'free ' "free "
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_card/Create_0.gml
+Converted description /// @description cards
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_card/Step_0.gml
+Converted description /// @description execute card actions script
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_stack/Create_0.gml
+Converted description /// @description stack - creates cards instances
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_stack/Step_0.gml
+Converted description /// @description run stack actions script
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_draw/Create_0.gml
+Converted description /// @description draw various background elements (rectangles etc.)/// @param rectangles etc.
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_draw/Draw_0.gml
+Converted description /// @description draw rectangle behind cards
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_game_over/Create_0.gml
+Converted description /// @description top 10 and high score saving
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_game_over/Step_0.gml
+Converted description /// @description 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_game_over/Draw_0.gml
+Converted description /// @description 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_transition/Create_0.gml
+Converted description /// @description transition when restarting - triggers action[0] (restart)/// @param restart
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_transition/Step_0.gml
+Converted description /// @description 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_transition/Draw_0.gml
+Converted description /// @description 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control/Create_0.gml
+Converted description /// @description "Pick 5 Poker" Arcade Solitaire by Mark-VIII
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control/Step_0.gml
+Converted description /// @description run control action script
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control/KeyPress_39.gml
+Converted description /// @description test code/debug
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_score/Create_0.gml
+Converted description /// @description shows hand obtained
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_score/Step_0.gml
+Converted description /// @description 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_show_bonus_seconds/Create_0.gml
+Converted description /// @description draws number of bonus seconds
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_show_bonus_seconds/Step_0.gml
+Converted description /// @description 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_star_generator/Create_0.gml
+Converted description /// @description create star instances
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_star_generator/Step_0.gml
+Converted description /// @description 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_star/Create_0.gml
+Converted description /// @description star object
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/natural_royal_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/natural_royal_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/natural_royal_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/natural_royal_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/five_of_a_kind_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/five_of_a_kind_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/five_of_a_kind_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/five_of_a_kind_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/joker_royal_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/joker_royal_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/joker_royal_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/joker_royal_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_flush_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_flush_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_flush_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_flush_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/four_of_a_kind_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/four_of_a_kind_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/four_of_a_kind_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/four_of_a_kind_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/full_house_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/full_house_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/full_house_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/full_house_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/flush_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/flush_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/flush_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/flush_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/straight_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/three_of_a_kind_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/three_of_a_kind_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/three_of_a_kind_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/three_of_a_kind_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/two_pair_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/two_pair_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/two_pair_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/two_pair_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/jacks_or_better_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/jacks_or_better_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/jacks_or_better_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/jacks_or_better_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/nothing_hi/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/nothing_hi/Draw_0.gml
+Converted description /// @description change the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/nothing_lo/Create_0.gml
+Converted description /// @description set payout to zero
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/nothing_lo/Draw_0.gml
+Converted description /// @description set the text colour if the score matches
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/creds_control/Create_0.gml
+Converted description /// @description start amount of credits
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/creds_control/Draw_0.gml
+Converted description /// @description draw credit amount to screen
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/bet_control/Create_0.gml
+Converted description /// @description set bet amount to zero 
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/play_poker_button/Mouse_4.gml
+Converted description /// @description start the game
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/exit_game_button/Mouse_4.gml
+Converted description /// @description exit the game
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control_new/Create_0.gml
+Converted description /// @description "Pick 5 Poker" Arcade Solitaire by Mark-VIII
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control_new/Step_0.gml
+Converted description /// @description run control action script
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control_new/KeyPress_39.gml
+Converted description /// @description test code/debug
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/dealer/Create_0.gml
+String not found: ConversionLog_ConvertedString 24 'PLACE YOUR BET' "PLACE YOUR BET"
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/dealer/Alarm_3.gml
+String not found: ConversionLog_ConvertedString 28 'PLACE YOUR BET' "PLACE YOUR BET"
+String not found: ConversionLog_ConvertedString 31 'JACKS OR BETTER' "JACKS OR BETTER"
+String not found: ConversionLog_ConvertedString 36 'TWO PAIRS' "TWO PAIRS"
+String not found: ConversionLog_ConvertedString 41 'THREE OF A KIND' "THREE OF A KIND"
+String not found: ConversionLog_ConvertedString 46 'STRAIGHT' "STRAIGHT"
+String not found: ConversionLog_ConvertedString 51 'FLUSH' "FLUSH"
+String not found: ConversionLog_ConvertedString 56 'FULL HOUSE' "FULL HOUSE"
+String not found: ConversionLog_ConvertedString 61 'FOUR OF A KIND' "FOUR OF A KIND"
+String not found: ConversionLog_ConvertedString 66 'STRAIGHT FLUSH' "STRAIGHT FLUSH"
+String not found: ConversionLog_ConvertedString 71 'ROYAL FLUSH' "ROYAL FLUSH"
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/dealer/Keyboard_66.gml
+Converted builtin - line 1: background_color = make_color_rgb(random(256),random(256),random(256)) -> __background_set_colour( make_color_rgb(random(256),random(256),random(256)) )
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/dealer/Draw_0.gml
+String not found: ConversionLog_ConvertedString 2 'BET ' "BET "
+String not found: ConversionLog_ConvertedString 3 'CREDITS ' "CREDITS "
+String not found: ConversionLog_ConvertedString 4 'PEAK ' "PEAK "
+String not found: ConversionLog_ConvertedString 10 'WINNER PAID ' "WINNER PAID "
+String not found: ConversionLog_ConvertedString 18 'select discards' "select discards"
+String not found: ConversionLog_ConvertedString 30 '' ""
+String not found: ConversionLog_ConvertedString 30 '%' "%"
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_card_new/Create_0.gml
+Converted description /// @description Settings
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_card_new/Step_0.gml
+Converted description /// @description Meat and potatoes
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_exclaim/Create_0.gml
+Converted description /// @description Settings
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_exclaim/Alarm_0.gml
+Converted description /// @description b_fade
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_exclaim/Step_0.gml
+Converted description /// @description Meat and potatoes
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_button/Create_0.gml
+Converted description /// @description Settings
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_button/Alarm_0.gml
+Converted description /// @description Place self at the correct location
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_button/Step_0.gml
+Converted description /// @description Meat and potatoes
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_button/Draw_0.gml
+Converted description /// @description Draw items
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_youLose/Create_0.gml
+Converted description /// @description Settings
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_youLose/Alarm_0.gml
+Converted description /// @description b_fade
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_youLose/Step_0.gml
+Converted description /// @description Meat and potatoes
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control_new_new/Create_0.gml
+Converted description /// @description Settings
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control_new_new/Alarm_0.gml
+Converted description /// @description Used for our alarm purposes
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control_new_new/Step_0.gml
+Converted description /// @description Control of the game
+
+Converting GML script: /Users/3ichael7ambert/Documents/GameMakerStudio2/Casino Cafe 6/conv/gmx/Casino Cafe 6_71D270BD/objects/obj_control_new_new/Draw_0.gml
+Converted description /// @description Draw items
+
+Missing audiogroup for sound: 'snd_g0_coin' - setting to default audio group
+Missing audiogroup for sound: 'snd_g1_song' - setting to default audio group
+Missing audiogroup for sound: 'snd_g1_bonus' - setting to default audio group
+Missing audiogroup for sound: 'snd_lobby' - setting to default audio group
+Missing audiogroup for sound: 'snd_g0_bounce' - setting to default audio group
+Missing audiogroup for sound: 'snd_g2_song' - setting to default audio group
+Missing audiogroup for sound: 'snd_g2_bonus' - setting to default audio group
+Missing audiogroup for sound: 'snd_g3_bonus' - setting to default audio group
+Missing audiogroup for sound: 'snd_g3_song' - setting to default audio group
+Missing audiogroup for sound: 'snd_slots' - setting to default audio group
+Missing audiogroup for sound: 'snd_slot_stop' - setting to default audio group
+Missing audiogroup for sound: 'snd_slot_start' - setting to default audio group
+Missing audiogroup for sound: 'snd_2x' - setting to default audio group
+Missing audiogroup for sound: 'snd_3x' - setting to default audio group
+Missing audiogroup for sound: 'snd_4x' - setting to default audio group
+Missing audiogroup for sound: 'snd_5x' - setting to default audio group
+Missing audiogroup for sound: 'snd0' - setting to default audio group
+Missing audiogroup for sound: 'bonus1' - setting to default audio group
+Missing audiogroup for sound: 'bonus2' - setting to default audio group
+Missing audiogroup for sound: 'bonus3' - setting to default audio group
+Missing audiogroup for sound: 'snd_slct' - setting to default audio group
+Missing audiogroup for sound: 'snd_slct2' - setting to default audio group
+Missing audiogroup for sound: 'nt0' - setting to default audio group
+Missing audiogroup for sound: 'nt1' - setting to default audio group
+Missing audiogroup for sound: 'nt2' - setting to default audio group
+Missing audiogroup for sound: 'nt3' - setting to default audio group
+Missing audiogroup for sound: 'nt4' - setting to default audio group
+Missing audiogroup for sound: 'nt5' - setting to default audio group
+Missing audiogroup for sound: 'nt6' - setting to default audio group
+Missing audiogroup for sound: 'nt7' - setting to default audio group
+Missing audiogroup for sound: 'nt0_new' - setting to default audio group
+Missing audiogroup for sound: 'nt1_new' - setting to default audio group
+Missing audiogroup for sound: 'nt2_new' - setting to default audio group
+Missing audiogroup for sound: 'nt3_new' - setting to default audio group
+Missing audiogroup for sound: 'nt4_new' - setting to default audio group
+Missing audiogroup for sound: 'nt5_new' - setting to default audio group
+Missing audiogroup for sound: 'nt6_new' - setting to default audio group
+Missing audiogroup for sound: 'nt7_new' - setting to default audio group
+Missing audiogroup for sound: 'credit_in' - setting to default audio group
+Missing audiogroup for sound: 'hold_button_snd' - setting to default audio group
+Missing audiogroup for sound: 'deal_card_snd' - setting to default audio group
+Missing audiogroup for sound: 'winner_snd' - setting to default audio group
+Missing audiogroup for sound: 'loser_snd' - setting to default audio group
+Missing audiogroup for sound: 'snd0_new' - setting to default audio group
+Missing audiogroup for sound: 'bonus1_new' - setting to default audio group
+Missing audiogroup for sound: 'bonus2_new' - setting to default audio group
+Missing audiogroup for sound: 'bonus3_new' - setting to default audio group
+Missing audiogroup for sound: 'snd_slct_new' - setting to default audio group
+Missing audiogroup for sound: 'snd_slct2_new' - setting to default audio group
+Missing audiogroup for sound: 'click' - setting to default audio group
+Missing audiogroup for sound: 'nono' - setting to default audio group
+Missing audiogroup for sound: 'betting' - setting to default audio group
+Missing audiogroup for sound: 'flip' - setting to default audio group
+Missing audiogroup for sound: 'choosesnd' - setting to default audio group
+Missing audiogroup for sound: 'win' - setting to default audio group
+Missing audiogroup for sound: 'BallSelected' - setting to default audio group
+Missing audiogroup for sound: 'BoardCleared' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'background/__background_set_colour.gml'
+Added compatibility script 'background/__background_get_colour_element.gml'
+Added compatibility script 'background/draw_background.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_if_question.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_save_game.gml'
+Added compatibility script 'action/action_if.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_draw_font_old.gml'
+Added compatibility script 'action/action_sprite_transform.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_highscore.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
